@@ -1,0 +1,6 @@
+[mysql]
+host = localhost
+username = ubuntu
+password = 
+database_name = Test
+port = 3306
