@@ -12,7 +12,7 @@ Also it has APIs which are register the user with password, generate JWT token w
 
 The first thing to do is to clone the repository:
 
-$ git clone 
+$ git clone https://github.com/pranit26/WeatherHistoryRepo.git
 
 $ cd sample-django-app
 
